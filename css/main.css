@@ -123,6 +123,7 @@ section {
 
 
 .insta {
+  text-decoration: none;
   margin-right: 2em;
   width: 20%;
   cursor: pointer;
